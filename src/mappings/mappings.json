@@ -9,6 +9,6 @@
   },
   {
     "pipedriveKey": "phone",
-    "inputKey": "phone.home"
+    "inputKey": "phoneNumber.home"
   }
 ]
